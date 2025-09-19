@@ -1,2 +1,3 @@
 # PSAsk
-Powershell interface to OpenRouter, inspired by kagisearch/ask
+
+Powershell interface to OpenRouter, translated from kagisearch/ask
